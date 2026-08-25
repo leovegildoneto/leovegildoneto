@@ -11,5 +11,5 @@ Sou Leovegildo Neto, dev de criação. Crio projetos para automatizar e facilita
 
 
 ## 🛠 Skills
-Java, Javascript, Typescript, C#, C++, Python, Flutter, PHP, HTML e CSS.
+![Texto Alternativo]([URL_da_Imagem](https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png))
 
