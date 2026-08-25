@@ -12,5 +12,5 @@ Sou Leovegildo Neto, dev de criação. Crio projetos para automatizar e facilita
 
 
 ## 🛠 Skills
-<img width="100" height="70" alt="c#" src="https://images.icon-icons.com/2415/PNG/512/csharp_plain_logo_icon_146577.png" />
+<img width="70" height="70" alt="c#" src="https://images.icon-icons.com/2415/PNG/512/csharp_plain_logo_icon_146577.png" />
 
